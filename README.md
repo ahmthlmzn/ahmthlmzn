@@ -20,8 +20,6 @@
 <a href="https://discord.gg/@ahmthlmzn#7021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="@ahmthlmzn#7021" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://camo.githubusercontent.com/79a04503b44b0b18fef34d7fee1697569b24121462450cd48987c16f1671a727/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6164656d36382662675f636f6c6f723d33302c6539363434332c393034653935267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666" alt="ahmthlmzn" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ahmthlmzn&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" style="max-width:100%;">
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
