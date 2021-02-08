@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmthlmzn&label=Profile%20views&color=0e75b6&style=flat" alt="ahmthlmzn" /> </p>
 
-- 🌱 I’m currently learning **C# programming languages.**
+- 🌱 I’m currently learning **C# programming language.**
 
 - 📫 How to reach me **ahmthlmzn@gmail.com**
 
